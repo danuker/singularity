@@ -29,9 +29,10 @@ but the game itself should work properly.
 
 ## RUNNING THE GAME
 
-On Linux and most Unix-like other platforms, running "python singularity.py",
-or simply "singularity", will start the game. If using the Windows compile,
-just run singularity.exe
+On Linux and most Unix-like other platforms, running `python3 singularity` in
+the git checkout will start the game (or simply `singularity` if installed via
+a Linux distribution). If you are using the Windows compile, just run
+`singularity.exe`.
 
 ### SOME COMMAND-LINE OPTIONS
 
